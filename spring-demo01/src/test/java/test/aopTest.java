@@ -15,6 +15,9 @@ public class aopTest {
         user.setPassword("123123");
         user.setEmail("111111@qq.com");
         userService.addNewUser(user);
+        System.out.println("aaaaaaaaaaaaaa");
+        System.out.println("aaaaaaaaaaaaaa");
+        System.out.println("aaaaaaaaaaaaaa");
     }
 
 
